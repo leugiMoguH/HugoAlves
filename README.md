@@ -122,10 +122,6 @@ Para além do código, sou fascinado por:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=leugiMoguH&theme=radical" alt="Streak do GitHub do Hugo" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-languages.vercel.app/api/top-langs/?username=leugiMoguH&layout=compact&theme=radical" alt="Linguagens Mais Usadas do Hugo" />
 </p>
 
